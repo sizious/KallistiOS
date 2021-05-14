@@ -1,3 +1,5 @@
+/* DreamSDK */
+
 /* KallistiOS ##version##
 
    kos_img.c
